@@ -135,3 +135,11 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+params:
+  utterances:
+    enable: true
+    repo: "RoccoLiang/commentforbartsfirsthome"  # 例如 "username/repo"
+    issueTerm: "pathname"  # 或使用 "title"、"url" 等選項
+    theme: "photon-dark"   # 可選 "github-light"、"github-dark" 等主題
+
